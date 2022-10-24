@@ -1,0 +1,158 @@
+State;City File;City;File
+Alabama;Birmingham(ALBIRMIN.txt);Birmingham;ALBIRMIN.txt
+Alabama;Huntsville(ALHUNTSV.txt);Huntsville;ALHUNTSV.txt
+Alabama;Mobile(ALMOBILE.txt);Mobile;ALMOBILE.txt
+Alabama;Montgomery(ALMONTGO.txt);Montgomery;ALMONTGO.txt
+Alaska;Anchorage(AKANCHOR.txt);Anchorage;AKANCHOR.txt
+Alaska;Fairbanks(AKFAIRBA.txt);Fairbanks;AKFAIRBA.txt
+Alaska;Juneau(AKJUNEAU.txt);Juneau;AKJUNEAU.txt
+Arizona;Flagstaff(AZFLAGST.txt);Flagstaff;AZFLAGST.txt
+Arizona;Phoenix(AZPHOENI.txt);Phoenix;AZPHOENI.txt
+Arizona;Tucson(AZTUCSON.txt);Tucson;AZTUCSON.txt
+Arizona;Yuma(AZYUMA.txt);Yuma;AZYUMA.txt
+Arkansas;Fort Smith(ARFTSMIT.txt);Fort Smith;ARFTSMIT.txt
+Arkansas;Little Rock(ARLIROCK.txt);Little Rock;ARLIROCK.txt
+California;Fresno(CAFRESNO.txt);Fresno;CAFRESNO.txt
+California;Los Angeles(CALOSANG.txt);Los Angeles;CALOSANG.txt
+California;Sacramento(CASACRAM.txt);Sacramento;CASACRAM.txt
+California;San Diego(CASANDIE.txt);San Diego;CASANDIE.txt
+California;San Francisco(CASANFRA.txt);San Francisco;CASANFRA.txt
+Colorado;Colorado Springs(COCOSPGS.txt);Colorado Springs;COCOSPGS.txt
+Colorado;Denver(CODENVER.txt);Denver;CODENVER.txt
+Colorado;Grand Junction(COGRNDJU.txt);Grand Junction;COGRNDJU.txt
+Colorado;Pueblo(COPUEBLO.txt);Pueblo;COPUEBLO.txt
+Connecticut;Bridgeport(CTBRIDGE.txt);Bridgeport;CTBRIDGE.txt
+Connecticut;HartfordSpringfield(CTHARTFO.txt);HartfordSpringfield;CTHARTFO.txt
+Delaware;Wilmington(DEWILMIN.txt);Wilmington;DEWILMIN.txt
+District of Columbia;Washington (National)(MDWASHDC.txt);Washington ;MDWASHDC.txt
+Florida;Daytona Beach(FLDAYTNA.txt);Daytona Beach;FLDAYTNA.txt
+Florida;Jacksonville(FLJACKSV.txt);Jacksonville;FLJACKSV.txt
+Florida;Miami Beach(FLMIAMIB.txt);Miami Beach;FLMIAMIB.txt
+Florida;Orlando(FLORLAND.txt);Orlando;FLORLAND.txt
+Florida;Tallahassee(FLTALLAH.txt);Tallahassee;FLTALLAH.txt
+Florida;Tampa St.Petersburg(FLTAMPA.txt);Tampa St.Petersburg;FLTAMPA.txt
+Florida;West Palm Beach(FLWPALMB.txt);West Palm Beach;FLWPALMB.txt
+Georgia;Atlanta(GAATLANT.txt);Atlanta;GAATLANT.txt
+Georgia;Columbus(GACOLMBS.txt);Columbus;GACOLMBS.txt
+Georgia;Macon(GAMACON.txt);Macon;GAMACON.txt
+Georgia;Savannah(GASAVANN.txt);Savannah;GASAVANN.txt
+Hawaii;Honolulu(HIHONOLU.txt);Honolulu;HIHONOLU.txt
+Idaho;Boise(IDBOISE.txt);Boise;IDBOISE.txt
+Idaho;Pocatello(IDPOCATE.txt);Pocatello;IDPOCATE.txt
+Illinois;Chicago(ILCHICAG.txt);Chicago;ILCHICAG.txt
+Illinois;Peoria(ILPEORIA.txt);Peoria;ILPEORIA.txt
+Illinois;Rockford(ILROCKFO.txt);Rockford;ILROCKFO.txt
+Illinois;Springfield(ILSPRING.txt);Springfield;ILSPRING.txt
+Indiana;Evansville(INEVANSV.txt);Evansville;INEVANSV.txt
+Indiana;Fort Wayne(INFTWAYN.txt);Fort Wayne;INFTWAYN.txt
+Indiana;Indianapolis(ININDIAN.txt);Indianapolis;ININDIAN.txt
+Indiana;South Bend(INSOBEND.txt);South Bend;INSOBEND.txt
+Iowa;Des Moines(IADESMOI.txt);Des Moines;IADESMOI.txt
+Iowa;Sioux City(IASIOCTY.txt);Sioux City;IASIOCTY.txt
+Kansas;Goodland (KSGOODLA.txt);Goodland ;KSGOODLA.txt
+Kansas;Topeka(KSTOPEKA.txt);Topeka;KSTOPEKA.txt
+Kansas;Wichita (KSWICHIT.txt);Wichita ;KSWICHIT.txt
+Kentucky;Lexington(KYLEXING.txt);Lexington;KYLEXING.txt
+Kentucky;Louisville(KYLOUISV.txt);Louisville;KYLOUISV.txt
+Kentucky;Paducah(KYPADUCA.txt);Paducah;KYPADUCA.txt
+Louisiana;Baton Rouge(LABATONR.txt);Baton Rouge;LABATONR.txt
+Louisiana;Lake Charles(LALAKECH.txt);Lake Charles;LALAKECH.txt
+Louisiana;New Orleans(LANEWORL.txt);New Orleans;LANEWORL.txt
+Louisiana;Shreveport(LASHREVE.txt);Shreveport;LASHREVE.txt
+Maine;Caribou (MECARIBO.txt);Caribou ;MECARIBO.txt
+Maine;Portland(MEPORTLA.txt);Portland;MEPORTLA.txt
+Maryland;Baltimore(MDBALTIM.txt);Baltimore;MDBALTIM.txt
+Maryland;WashingtonDC(MDWASHDC.txt);WashingtonDC;MDWASHDC.txt
+Massachusetts;Boston(MABOSTON.txt);Boston;MABOSTON.txt
+Michigan;Detroit(MIDETROI.txt);Detroit;MIDETROI.txt
+Michigan;Flint(MIFLINT.txt);Flint;MIFLINT.txt
+Michigan;Grand Rapids(MIGRNDRA.txt);Grand Rapids;MIGRNDRA.txt
+Michigan;Lansing(MILANSIN.txt);Lansing;MILANSIN.txt
+Michigan;Sault Ste Marie(MISTEMAR.txt);Sault Ste Marie;MISTEMAR.txt
+Minnesota;Duluth(MNDULUTH.txt);Duluth;MNDULUTH.txt
+Minnesota;Minneapolis St.Paul (MNMINPLS.txt);Minneapolis St.Paul ;MNMINPLS.txt
+Mississippi;Jackson(MSJACKSO.txt);Jackson;MSJACKSO.txt
+Mississippi;Tupelo(MSTUPELO.txt);Tupelo;MSTUPELO.txt
+Missouri;Kansas City(MOKANCTY.txt);Kansas City;MOKANCTY.txt
+Missouri;Springfield(MOSPRING.txt);Springfield;MOSPRING.txt
+Missouri;St Louis(MOSTLOUI.txt);St Louis;MOSTLOUI.txt
+Montana;Billings(MTBILLIN.txt);Billings;MTBILLIN.txt
+Montana;Great Falls(MTGRFALL.txt);Great Falls;MTGRFALL.txt
+Montana;Helena(MTHELENA.txt);Helena;MTHELENA.txt
+Nebraska;Lincoln(NELINCOL.txt);Lincoln;NELINCOL.txt
+Nebraska;North Platte(NENPLATT.txt);North Platte;NENPLATT.txt
+Nebraska;Omaha(NEOMAHA.txt);Omaha;NEOMAHA.txt
+Nevada;Reno(NVRENO.txt);Reno;NVRENO.txt
+Nevada;Las Vegas(NVLASVEG.txt);Las Vegas;NVLASVEG.txt
+New Hampshire;Concord(NHCONCOR.txt);Concord;NHCONCOR.txt
+New Jersey;Atlantic City(NJATLCTY.txt);Atlantic City;NJATLCTY.txt
+New Jersey;Newark(NJNEWARK.txt);Newark;NJNEWARK.txt
+New Mexico;Albuquerque(NMALBUQU.txt);Albuquerque;NMALBUQU.txt
+New York;Albany(NYALBANY.txt);Albany;NYALBANY.txt
+New York;Buffalo(NYBUFFAL.txt);Buffalo;NYBUFFAL.txt
+New York;New York City(NYNEWYOR.txt);New York City;NYNEWYOR.txt
+New York;Rochester(NYROCHES.txt);Rochester;NYROCHES.txt
+New York;Syracuse(NYSYRACU.txt);Syracuse;NYSYRACU.txt
+North Carolina;Asheville(NCASHEVI.txt);Asheville;NCASHEVI.txt
+North Carolina;Charlotte(NCCHARLO.txt);Charlotte;NCCHARLO.txt
+North Carolina;Greensboro(NCGRNSBO.txt);Greensboro;NCGRNSBO.txt
+North Carolina;RaleighDurham(NCRALEIG.txt);RaleighDurham;NCRALEIG.txt
+North Dakota;Bismarck(NDBISMAR.txt);Bismarck;NDBISMAR.txt
+North Dakota;Fargo(NDFARGO.txt);Fargo;NDFARGO.txt
+Ohio;AkronCanton(OHAKRON.txt);AkronCanton;OHAKRON.txt
+Ohio;Cincinnati(OHCINCIN.txt);Cincinnati;OHCINCIN.txt
+Ohio;Cleveland(OHCLEVEL.txt);Cleveland;OHCLEVEL.txt
+Ohio;Columbus(OHCOLMBS.txt);Columbus;OHCOLMBS.txt
+Ohio;Dayton(OHDAYTON.txt);Dayton;OHDAYTON.txt
+Ohio;Toledo(OHTOLEDO.txt);Toledo;OHTOLEDO.txt
+Ohio;Youngstown(OHYOUNGS.txt);Youngstown;OHYOUNGS.txt
+Oklahoma;Oklahoma City(OKOKLCTY.txt);Oklahoma City;OKOKLCTY.txt
+Oklahoma;Tulsa(OKTULSA.txt);Tulsa;OKTULSA.txt
+Oregon;Eugene(OREUGENE.txt);Eugene;OREUGENE.txt
+Oregon;Medford(ORMEDFOR.txt);Medford;ORMEDFOR.txt
+Oregon;Portland(ORPORTLA.txt);Portland;ORPORTLA.txt
+Oregon;Salem(ORSALEM.txt);Salem;ORSALEM.txt
+Pennsylvania;Allentown(PAALLENT.txt);Allentown;PAALLENT.txt
+Pennsylvania;Erie(PAERIE.txt);Erie;PAERIE.txt
+Pennsylvania;Harrisburg(PAHARRIS.txt);Harrisburg;PAHARRIS.txt
+Pennsylvania;Philadelphia(PAPHILAD.txt);Philadelphia;PAPHILAD.txt
+Pennsylvania;Pittsburgh(PAPITTSB.txt);Pittsburgh;PAPITTSB.txt
+Pennsylvania;WilkesBarre(PAWILKES.txt);WilkesBarre;PAWILKES.txt
+Rhode Island;Rhode Island(RIPROVID.txt);Rhode Island;RIPROVID.txt
+South Carolina;Charleston(SCCHARLE.txt);Charleston;SCCHARLE.txt
+South Carolina;Columbia(SCCOLMBA.txt);Columbia;SCCOLMBA.txt
+South Dakota;Rapid City(SDRAPCTY.txt);Rapid City;SDRAPCTY.txt
+South Dakota;Sioux Falls(SDSIOFAL.txt);Sioux Falls;SDSIOFAL.txt
+Tennessee;Chattanooga(TNCHATTA.txt);Chattanooga;TNCHATTA.txt
+Tennessee;Knoxville(TNKNOXVI.txt);Knoxville;TNKNOXVI.txt
+Tennessee;Memphis(TNMEMPHI.txt);Memphis;TNMEMPHI.txt
+Tennessee;Nashville(TNNASHVI.txt);Nashville;TNNASHVI.txt
+Texas;Abilene(TXABILEN.txt);Abilene;TXABILEN.txt
+Texas;Amarillo(TXAMARIL.txt);Amarillo;TXAMARIL.txt
+Texas;Austin(TXAUSTIN.txt);Austin;TXAUSTIN.txt
+Texas;Brownsville(TXBROWNS.txt);Brownsville;TXBROWNS.txt
+Texas;Corpus Christi(TXCORPUS.txt);Corpus Christi;TXCORPUS.txt
+Texas;DallasFt Worth (TXDALLAS.txt);DallasFt Worth ;TXDALLAS.txt
+Texas;El Paso(TXELPASO.txt);El Paso;TXELPASO.txt
+Texas;Houston(TXHOUSTO.txt);Houston;TXHOUSTO.txt
+Texas;Lubbock(TXLUBBOC.txt);Lubbock;TXLUBBOC.txt
+Texas;MidlandOdessa(TXMIDLAN.txt);MidlandOdessa;TXMIDLAN.txt
+Texas;San Angelo(TXSANANG.txt);San Angelo;TXSANANG.txt
+Texas;San Antonio(TXSANANT.txt);San Antonio;TXSANANT.txt
+Texas;Waco(TXWACO.txt);Waco;TXWACO.txt
+Texas;Wichita Falls(TXWICHFA.txt);Wichita Falls;TXWICHFA.txt
+Utah;Salt Lake City(UTSALTLK.txt);Salt Lake City;UTSALTLK.txt
+Vermont;Burlington(VTBURLIN.txt);Burlington;VTBURLIN.txt
+Virginia;Norfolk(VANORFOL.txt);Norfolk;VANORFOL.txt
+Virginia;Richmond(VARICHMO.txt);Richmond;VARICHMO.txt
+Virginia;Roanoke(VAROANOK.txt);Roanoke;VAROANOK.txt
+Washington;Seattle(WASEATTL.txt);Seattle;WASEATTL.txt
+Washington;Spokane(WASPOKAN.txt);Spokane;WASPOKAN.txt
+Washington;Yakima(WAYAKIMA.txt);Yakima;WAYAKIMA.txt
+West Virginia;Charleston(WVCHARLE.txt);Charleston;WVCHARLE.txt
+West Virginia;Elkins (WVELKINS.txt);Elkins ;WVELKINS.txt
+Wisconsin;Green Bay(WIGREBAY.txt);Green Bay;WIGREBAY.txt
+Wisconsin;Madison(WIMADISO.txt);Madison;WIMADISO.txt
+Wisconsin;Milwaukee(WIMILWAU.txt);Milwaukee;WIMILWAU.txt
+Wyoming;Casper(WYCASPER.txt);Casper;WYCASPER.txt
+Wyoming;Cheyenne(WYCHEYEN.txt);Cheyenne;WYCHEYEN.txt
